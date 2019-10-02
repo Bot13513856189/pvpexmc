@@ -868,7 +868,7 @@ client.on('message', PuP => {
 
 client.on('ready', function(){
     var ms = 10000 ;
-    var setGame = [' -help',`PvPex Ststem`,`Hello Im PvPex Bot `,' Need Help Type : -help ','PvPExmc.aternos.me'];
+    var setGame = [' -help',`PvPex System`,`Hello Im PvPex Bot `,' Need Help Type : -help ','PvPExmc.aternos.me'];
     var i = -1;
     var j = 0;
     setInterval(function (){
