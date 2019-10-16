@@ -2660,7 +2660,7 @@ client.on('guildCreate', guild => {
       guild.owner.send(embed)
 });
 
-const devs = ["524901565472047116"]
+const devs = ["519141956677271572"]
  
 const adminprefix = "#";
 client.on('message', message => {
